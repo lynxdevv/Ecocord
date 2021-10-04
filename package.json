@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Androz2091/DiscordEconomyBot.git"
+    "url": "git+https://github.com/Lynx-offl/Ecocord.git"
   },
-  "author": "Androz#2091",
+  "author": "Lynx_offl#0531",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Lynx-offl/ecocord/issues"
@@ -23,5 +23,6 @@
     "express": "^4.17.1",
     "ms": "^2.1.1",
     "quick.db": "github:Androz2091/quick.db"
-  }
+  },
+  "keywords": []
 }
