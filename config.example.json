@@ -1,0 +1,13 @@
+{
+    "token":"TOKEN",
+    "prefix":"$",
+    "status":"$help",
+    "embed":{
+        "color":"#ff5b5b",
+        "footer":"By Lynx_offl#0531"
+    },
+    "administrators":[
+        "828919619661987870",
+        "888408578346598410"
+    ]
+}
