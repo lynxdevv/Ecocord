@@ -1,6 +1,6 @@
 # ECOCORD
 
-A very simple bot with an economy system using the Discord.js API made by Androz. [Join the support server](https://dsc.gg/lynxdev).
+A very simple bot with an economy system using the Discord.js API. [Join the support server](https://dsc.gg/lynxdev).
 
 This bot is made for beginners in nodejs, it is possible to make a more advanced and better optimized bot with a commands folder for example. Feel free to contribute to the project!
 
